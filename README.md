@@ -66,6 +66,8 @@
 | [Ultra-fast and accurate electron ionization mass spectrum matching for compound identification with million-scale in-silico library](https://www.nature.com/articles/s41467-023-39279-7)|Word2vec, HNSW|nature communications|[![Star](https://img.shields.io/github/stars/Qiong-Yang/FastEI.svg?style=social&label=Star)](https://github.com/Qiong-Yang/FastEI)|FastEI, spectrum simulation expansion, spectrum search for compoundidentification|
 | [In silico fragmentation for computer assisted identification of metabolite mass spectra](https://doi.org/10.1186/1471-2105-11-148) | Combinatorial Fragmenter | BMC Bioinformatics |  | MetFrag, mass spectrum-based metabolite identification, [Project Link](http://msbi.ipb-halle.de/MetFrag/) |
 | [MS2Query: reliable and scalable MS2 mass spectra-based analogue search](https://doi.org/10.1038/s41467-023-37446-4) |embedding-based chemical similarity predictors  | Nature Communications | [![Star](https://img.shields.io/github/stars/iomega/ms2query.svg?style=social&label=Star)](https://github.com/iomega/ms2query) | MS2Query, mass spectra analogue search, Project Link: [https://doi.org/10.5281/zenodo.6124553](https://doi.org/10.5281/zenodo.6124553) |
+| [Identifying variants of molecules through database search of mass spectra](https://www.nature.com/articles/s43588-025-00923-5) |embedding-based chemical similarity predictors  | Nature Computational Science | [![Star](https://img.shields.io/github/stars/mohimanilab/vinsmoc.svg?style=social&label=Star)](https://github.com/mohimanilab/vinsmoc ) | fragementation based spectral-molecule match |
+
 
 ### 1.3 General Tools
  | Paper Title & Link | Feasible scene | Venue | Code | Notes |
